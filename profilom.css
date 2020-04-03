@@ -1,0 +1,91 @@
+h1, h3 {
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+#turnip:hover {
+  transform: scale(1.07);
+}
+#turnip {
+  transition: 0.3s;
+}
+#location {
+  text-align: center;
+  text-decoration: none;
+}
+img {
+  border-radius: 50%;
+}
+#hu1 {
+  color: red;
+}
+#hu2 {
+  color: white;
+}
+#hu3 {
+  color: green;
+}
+body{
+  background: url(assets/howl-backg.jpg) center center fixed;
+  background-size: cover;
+}
+#textaboutme1 {
+    max-width: 990px;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 1.3pc;
+  text-align:justify;
+}
+#canvas {
+  background-color:rgba(255,255,255,.7);
+  border-radius: 7%;
+   width: 500px;
+  margin: 0 auto;
+}
+#vid {
+  font-family: '8BITWONDERNominal';
+  font-size: 11px;
+}
+.social {
+  padding-left: 5.2pc;
+  padding-top: 1.8pc;
+  font-size: 1.5pc;
+  transition: 0.3s;
+}
+div {
+  padding-bottom: 2pc;
+}
+h3 {
+  margin: 0;
+}
+#info {
+  text-align: center;
+  font-size: 12px;
+  padding-top: 15px;
+}
+#fb {
+  color: blue;
+}
+#ig {
+  color: mediumvioletred;
+}
+#tw {
+  color: aqua;
+}
+#yt {
+  color: red;
+}
+.social:hover {
+  opacity: 0.5;
+}
+h3 {
+  margin: 0;
+}
